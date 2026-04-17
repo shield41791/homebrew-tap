@@ -1,4 +1,4 @@
-cask "Hostbar" do
+cask "hostbar" do
   version "1.0.0"
   sha256 "b6c1f04d018bd3ff9088519e93a6031cc602cbac067f688aa35c1b8bcfa6eaeb"
 
