@@ -1,5 +1,5 @@
 cask "hostbar" do
-  version "v1.0.1"
+  version "1.0.1"
   sha256 "b6c1f04d018bd3ff9088519e93a6031cc602cbac067f688aa35c1b8bcfa6eaeb"
 
   url "https://github.com/shield41791/hostbar/releases/download/v1.0.1/Hostbar.zip"
